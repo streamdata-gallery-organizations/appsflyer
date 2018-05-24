@@ -1,14 +1,14 @@
 ---
 name: AppsFlyer
 x-slug: appsflyer
-description: "Mobile App Tracking & Attribution Analytics platform that helps App-Developers,
-  Brands and Ad-Agencies track and optimize their users\u2019 acquisition funnel."
+description: Mobile App Tracking & Attribution Analytics platform that helps App-Developers,
+  Brands and Ad-Agencies track and optimize their users acquisition funnel.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/351-appsflyer.jpg
 x-kinRank: "7"
 x-alexaRank: "13839"
 tags: AppsFlyer
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/appsflyer/master/_listings/appsflyer/apis.md
 specificationVersion: "0.14"
 apis: []
